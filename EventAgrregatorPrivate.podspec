@@ -21,13 +21,13 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'EventAggregators/Classes/*'
-  s.resources = 'EventAggregators/Assets/*'
-  s.public_header_files = 'EventAggregators/Classes/*.h'
+  s.source_files = 'EventAgrregatorPrivate/Classes/*'
+  s.resources = 'EventAgrregatorPrivate/Assets/*'
+  s.public_header_files = 'EventAgrregatorPrivate/Classes/*.h'
   s.swift_versions = '5.0'
   
   s.test_spec 'Tests' do |test_spec|
-    test_spec.source_files = 'EventAggregators/Tests/*.{swift}'
+    test_spec.source_files = 'EventAgrregatorPrivate/Tests/*.{swift}'
     test_spec.frameworks = 'XCTest'
   end
   s.libraries = 'stdc++'

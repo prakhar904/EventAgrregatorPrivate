@@ -1,16 +1,18 @@
 PODS:
   - EventAgrregatorPrivate (0.1.0)
+  - EventAgrregatorPrivate/Tests (0.1.0)
 
 DEPENDENCIES:
   - EventAgrregatorPrivate (from `../`)
+  - EventAgrregatorPrivate/Tests (from `../`)
 
 EXTERNAL SOURCES:
   EventAgrregatorPrivate:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EventAgrregatorPrivate: d778a0e27963a4e09d7c7bf9c5901a43592a365b
+  EventAgrregatorPrivate: cbf3667e6d8f008220fb34b9ed969cf108470a00
 
-PODFILE CHECKSUM: a8a53b3e4420a8d9cff7d61ecbe845ebe52c68d2
+PODFILE CHECKSUM: d6201ed1c1814998c8d3d7f0b51ea9dd916865db
 
 COCOAPODS: 1.12.1

@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import EventAggregators
+@testable import EventAgrregatorPrivate
 
 class EventAggregatorsTests: XCTestCase {
     

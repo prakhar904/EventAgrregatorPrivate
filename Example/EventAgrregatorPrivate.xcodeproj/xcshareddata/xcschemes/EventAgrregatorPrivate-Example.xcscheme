@@ -61,6 +61,16 @@
                ReferencedContainer = "container:EventAgrregatorPrivate.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D9239F686709AA71C879E23643B6CE46"
+               BuildableName = "EventAgrregatorPrivate-Unit-Tests.xctest"
+               BlueprintName = "EventAgrregatorPrivate-Unit-Tests"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
