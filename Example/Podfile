@@ -1,9 +1,9 @@
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '12.0'
 
 target 'EventAgrregatorPrivate_Example' do
-  pod 'EventAgrregatorPrivate', :path => '../'
+  pod 'EventAgrregatorPrivate', :path => '../', :testspecs => ['Tests']
 
   target 'EventAgrregatorPrivate_Tests' do
     inherit! :search_paths

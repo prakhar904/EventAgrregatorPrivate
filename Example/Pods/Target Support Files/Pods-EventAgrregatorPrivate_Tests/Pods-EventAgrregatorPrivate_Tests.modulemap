@@ -1,0 +1,6 @@
+framework module Pods_EventAgrregatorPrivate_Tests {
+  umbrella header "Pods-EventAgrregatorPrivate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module EventAgrregatorPrivate {
+  umbrella header "EventAgrregatorPrivate-umbrella.h"
+
+  export *
+  module * { export * }
+}

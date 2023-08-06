@@ -1,0 +1,16 @@
+PODS:
+  - EventAgrregatorPrivate (0.1.0)
+
+DEPENDENCIES:
+  - EventAgrregatorPrivate (from `../`)
+
+EXTERNAL SOURCES:
+  EventAgrregatorPrivate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EventAgrregatorPrivate: d778a0e27963a4e09d7c7bf9c5901a43592a365b
+
+PODFILE CHECKSUM: a8a53b3e4420a8d9cff7d61ecbe845ebe52c68d2
+
+COCOAPODS: 1.12.1
